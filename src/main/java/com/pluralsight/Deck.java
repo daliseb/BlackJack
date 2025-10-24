@@ -1,7 +1,7 @@
 package com.pluralsight;
+import java.util.Collections;
 
 public class Deck {
-    import java.util.Collections;
     public class Deck {
         private ArrayList<Card> cards;
         public Deck(){
